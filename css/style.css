@@ -270,12 +270,6 @@ body {
 		padding-top: 30px;
 	}
 	
-	#home-row-2 .col-12 .home-hover {
-		overflow: hidden;
-		padding-top: 26px;
-		transition: all ease-in .5s;
-	}
-	
 	@media (max-width: 767px) {
 	#home-row-1,
 	#home-row-2 {
